@@ -1,5 +1,9 @@
 Git commit messages
 
+# Eventually I would like to have a separate branch for lessons learned with individual
+# txt files for each lesson but am holding off on doing that until reaching the section
+# of Odin where branches are covered and I'm more comfortable with Git.
+
 Always inlcude a line between the subject and the body of the message.
 When creating commit messages use imperative mood in the subject line.
 Which means write as if you're giving a command. "Clean your room" "Close the door"
