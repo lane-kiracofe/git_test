@@ -1,0 +1,5 @@
+Git commit messages
+
+When creating commit messages use imperative mood in the subject line.
+Write as if you're giving a command. "Clean your room" "Close the door"
+
